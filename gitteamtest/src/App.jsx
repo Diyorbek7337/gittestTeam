@@ -10,6 +10,7 @@ function App() {
       <h1>Hello MirjaBOT</h1>
       <h2>hello world</h2>
       <h3>Akbarali lox</h3>
+      <h4>salom aleykum</h4>
     </>
   )
 }
