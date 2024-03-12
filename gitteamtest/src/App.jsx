@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Hello MirjaBOT</h1>
+      <h2>hello world</h2>
     </>
   )
 }
